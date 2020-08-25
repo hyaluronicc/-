@@ -1,1 +1,1 @@
-# ai 특허 : keywert
+# ai: keywert, wordcloud, os matrix
